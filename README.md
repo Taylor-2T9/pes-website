@@ -5,8 +5,6 @@
 ## Introduction
 > This is a personal project for a data compendium of championships between friends
 
----
-
 ## Technologies
 > This project was created with NextJS and React, the data displayed on the screen was extracted from an XLSX spreadsheet and the project styling was done with Styled-Components. And I used Typescript for typing throughout the project.
 - NextJS
